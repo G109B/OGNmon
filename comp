@@ -1,0 +1,5 @@
+echo compiling OGNmon.c
+gcc -Wno-deprecated-declarations -g OGNmon.c -o OGNmon -lm -lrt
+sudo chown root:root OGNmon
+sudo chmod 4755 OGNmon
+

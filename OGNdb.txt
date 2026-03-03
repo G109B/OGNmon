@@ -1,0 +1,1038 @@
+000000|KN  OK-7777 HPH 304   : Czech ?
+040E32|           Parachute  P
+0A05A4|           Parachute  P
+1108D3|           Parachute  P
+111298|           Parachute  P
+111660|           Parachute  P
+111708|           Parachute  P
+111A9B|           Parachute  P
+111DDF|           Parachute  P
+111F40|           Parachute  P
+111FAB|           Parachute  P
+112092|           Parachute  P
+1121B2|           Parachute  P
+112305|           Parachute  P
+11280B|           Parachute  P
+1128D2|           Parachute  P
+1128D8|           Parachute  P
+11293B|           Parachute  P
+112958|           Parachute  P
+112B03|           Parachute  P
+112B3B|           Parachute  P
+112C57|           Parachute  P
+112D8A|           Parachute  P
+112DAA|           Parachute  P
+112DBD|           Parachute  P
+1139D4|           Parachute  P
+125BF3|           Parachute  P
+20020D|           Parachute  P
+20022C|           Parachute  P
+200238|           Parachute  P
+2002CC|           Parachute  P
+2003CD|           Parachute  P
+200407|           Parachute  P
+20041B|           Parachute  P
+20055C|           Parachute  P
+20057A|           Parachute  P
+2005D8|           Parachute  P
+2005E6|           Parachute  P
+2005ED|           Parachute  P
+2005EF|           Parachute  P
+200769|           Parachute  P
+20076B|           Parachute  P
+20079E|           Parachute  P
+200867|           Parachute  P
+20086A|           Parachute  P
+200891|           Parachute  P
+3D06EE|           Parachute  P
+3D0E9E|           Parachute  P
+3D4A78|    D-FALK            # 
+3EC400|           Parachute  P
+400AB3|    G-JACS PA28       # Fowlmere
+400AEB|    G-DJJA PA28       # Southall
+400AEC|    G-ARJT PA23       # Sheffield
+400B2D|    G-SHUG PA28       # Watford
+400B4A|    G-INDX R44        = London
+400B6A|    G-COVA PA28       # Coventry
+400C18|    G-OTUI TB20       # London
+400C2A|    G-ATHR PA28       # Cranfield
+400C77|    G-VCXT Ventus     : Windsor
+400CCA|    G-BRDO C177       # Yarm
+400CCD|    G-GSPY R44        = Sittingbourne
+400DF9|    G-IPPS Airvan GA8 # Goodwood
+400DFA|    G-BXOZ PA28       # Luton
+400E32|    G-BORW C172       # Kenilworth
+400E8A|    G-ASIT C180       # Reddich
+400E8F|    G-BYWL G115       # Cranwell
+400E97|    G-BYWU Grob G115E # Babcock
+400E9C|    G-BYWY Grob G115E # Babcock
+400E9E|    G-BYXA Grob G115E # Babcock
+400EA9|    G-BYXL Grob G115E # Babcock
+400EB1|    G-BYXX Grob G115E # Babcock
+400ECC|    G-BYUH G115       # Cranwell
+400ECE|    G-BYUJ Grob G115E # Babcock
+400ED0|    G-BYUL G115       # Cranwell
+400EE9|    G-BYVL Grob G115E # Babcock
+400F18|    G-RASA DA42       # Membury
+400F2C|    G-YEOM Pa31       # Elstree
+400F48|    G-RVMB RV9        # Aylesbury
+400F53|    G-OWAR PA28       # Denham
+400FC5|    G-VALL PA32       # Sevenoaks
+401081|    G-FRYA R44        # Chinnor
+401093|    G-ZZDG Cirrus     # Elstree
+4010A0|    G-KIMK Partenavia # Wickford
+4010D6|    G-CCZZ Eurostar   # MK
+4010FC|    G-ZEZE C182       # Leicester
+40111D|    G-BBEB PA28       # London
+401131|    G-MEME PA28       # Meppershall
+401147|    G-ASWX PA28       # Wellingborough
+40118F|    G-RILA CTSW       # Sutton
+4011BD|    G-BKMA Mooney     # Cambridge
+4011C5|    G-HVER R44        = Denham
+4011F1|    G-HRND C182       # Gerrards Cross
+401203|    G-BGVY AA5        # Kent
+401239|    G-DYNM WT9        # Kenilworth
+401248|    G-BMIV PA28       # Colchester
+401292|    G-SLNT CTSW       # Kettering
+40129A|    G-RVAB RV7        # Horsham
+4012E2|    G-ABLS Puss Moth  # Holmbeck
+4012FE|506 G-CEUN Discus     : RAFGSA
+40130B|90  G-CFLW Std. Cirrus: Jeremy Pack Lasham
+401335|    G-DDWU Astir      : Henry Smith
+401355|    G-LSIV LS4        : Bristol
+40135A|    G-CEVZ Centrair   : London
+401366|    G-CLJR R44        = London
+401382|    G-SHMI Eurostar   # Worcester
+40139A|    G-KVAN CTSW       # Kettering
+4013FB|    G-AHAG DH Rapide  # Hungerford
+4014DF|    G-APIE Tipsy      # Ely
+401522|    G-AJIT Auster     # Godalming
+40152B|    G-AREL PA22       # Maidenhead
+40152F|    G-AREX Aeronca    # Cranleigh
+401532|    G-ARFO C152       # Alton
+4015FA|    G-OWRT C182       # Chpl-en-le-Frith
+40160C|    G-ASXS DR1050     # Towcester
+401610|    G-ASYP C150       # Aylesbury
+401719|    G-AVOZ PA28       # Maidenhead
+401756|    G-AVYM Pa28       # Broadstone
+401768|    G-AWAZ PA28       # Grays
+40179F|    G-AWKD Vagabond   # Banbury
+401822|    G-AXJH Beagle     # Reading
+401856|    G-AXSZ PA28       # London
+401897|    G-AYDZ Jodel      # Banbury
+401898|    G-AYEB Jodel D112 # Luton
+40189E|    G-AYEJ DR1050     # Wokingham
+4018AA|    G-AYGC C150       # Stockport
+4018FA|    G-AYUH PA28       # Norwich
+40193D|    G-AZGZ Tiger Moth # Bridgend
+401941|    G-AZHO Airtourer  # Chatham
+40195D|    G-AZLN PA28       # Abingdon
+401979|    G-AZRA Bolkow     # Beaconsfield
+4019F9|    G-BAJO AA5        # Mongomery
+401A10|    G-BAMU DR400      # Northampton
+401A11|    G-BAMY PA28       # London
+401A87|    G-BAVH Chipmunk   # Basingstoke
+401A94|    G-BAXZ PA28       # Bicester
+401B0B|    G-BBRC Fuji       # Woking
+401B32|    G-BBZH PA28       # Barnet
+401B6E|    G-BCIH Chipmunk   # Winchester
+401C0F|    G-BDPA PA28       # Ilford
+401C94|UA  G-BEUA PA18-150   T LGC tug
+401CA6|    G-BEWX PA28       # Headcorn
+401CE7|    G-BFFW C152       # Stapleford
+401D1E|    G-WNTR PA28       # Southampton
+401D47|    G-BFVS AA5        # Stoke Poges
+401DF4|    G-BGVV AA5        # Malpas
+401DF6|    G-BGWM PA28       # Aylesbury
+401DFE|    G-BGXC TB20       # Edenbridge
+401E1F|    G-BHDE TB10       # Tebworth
+401E20|    G-BHDM C152F      # Halton
+401E30|    G-BHEV PA28       # Retford
+401E38|    G-BHFK PA28       # Wellingborough
+401E5A|    G-BHLH DR400/180  T High Wycombe
+401E95|    G-BHUI C152       # Wellesbourne
+401E9D|    G-BHVP C182       # St. Neots
+401E9F|    G-BHVV J3C Cub    # Sandy
+401EAB|    G-BHYC C172       # Newport Pagnell
+401EAF|    G-BHYP C172       # Graffham
+401EC1|    G-BIBA TB9        # Elstree
+401F08|    G-BIKE PA28       # Sevenoaks
+401F8F|    G-BJBW PA28       # Poole
+401F91|    G-BJCA PA28       # Biggin
+402012|    G-BKCC PA28       # Gloucester
+402051|    G-BKKN C182R      # Worksop
+4020C5|    G-BLGH DR300      T Booker
+4020EC|    G-BLMG G109B      : Oxford
+402118|    G-BLUV G109B      # Purfleet
+40212D|    G-BOLT R 114      # Uttoxeter
+40215A|    G-BWMB Jodel      # Kidlington
+402194|    G-DEVS PA28       # Reading
+4021AD|CD  G-LGCD DR400      T LGC Tug
+4021B3|    G-CIGD C172       # Milton Keynes
+4021CB|    G-FLPI Rockwell   # Leicester
+4021F0|    G-HFCT C152       # Stapleford
+40224D|    G-TSAS PA28       # Wales
+402291|    G-OSKY C172       # Wellesbourne
+402292|    G-OSND C150       # Henlow
+40229D|    G-CIMM C182       # Nuneaton
+4022B6|    G-POWL C182       # Kidlington
+4022E0|    G-ROWS PA28       # Waltham Abbey
+4022E3|    G-RUBB AA5        # Reading
+402316|    G-PIPB Ecureuil   = Wellsbourne
+40232B|    G-CCCA Spitfire 9T# Cambridge
+402331|    G-TYRE C172       # Derby
+402357|    G-ZERO AA5        # Newport Pagnel
+4023A0|    G-BLUZ Queen Bee  # Hitchin
+402563|    G-WAVE G109B      : Enstone
+40259C|    G-HANY JetRanger  = Staverton
+4025FC|    G-AKIU Proctor    # Oxford
+40263C|    G-DENS Binder     # Bristol
+402640|    G-SHOG CriCri     # Shaftesbury
+402706|AR  G-CHAR G109B      : Halton
+402723|    G-BMTJ C152       # Denham
+4027BD|    G-WACY C172       # Denham
+40286C|    G-JANA PA28       # Elstree
+402901|    G-BNHJ C152       # Denham
+402917|    G-GFIG C152       # Denham
+402956|    G-BNSN C152       # Denham
+402981|    G-VOID PA28       # Salisbury
+4029DB|CC  G-LGCC DR400      T LGC tug
+402A57|    G-BODU SF25C      : Hitchin
+402A7A|    G-BODO C152       # Enstone
+402AA2|    G-BOHO PA28       # Cambridge
+402ACA|    G-OGEM PA28       # Warwick
+402AF3|    G-BOJS C172       # Denham
+402B05|    G-BOLY C172       # Romford
+402B0B|    G-BOMU PA28       # Bordon
+402B62|    G-BOSE PA28       # Bracknel
+402BD6|    G-BOMZ PA38       # Wycombe
+402C70|    G-BPAW C150       # Farnborough
+402C73|    G-BPAF PA28       # Slough
+402C86|    G-BPCL Bulldog    # Maldon
+402C87|    G-BULL Bulldog    # Calne
+402EA4|    G-SHED PA28       # Malvern
+402EAF|    G-SACO PA28       # Stapleford
+402ECC|    G-BRBP C152       # Denham
+402F1D|    G-BRBX PA28       # Newcastle
+402F38|    G-PEKT TB20       # York
+402F76|    G-ECGO Bolkow     # Saffron Walden
+403026|    G-BRPK PA28       # Welwyn
+403074|    G-CORI Hughes 500 = Wickford
+403075|    G-LASR Glassair II# Sleap
+403144|    G-BSDH DR400/180  # Kettering
+403170|    G-BSFP C152       # Denham
+4031BC|    G-BDSP C152       # Denham
+4031CD|    G-BSDH DR400      # Ketteriing
+40327F|SP  G-BSSP DR400      T Soaring Oxford
+403321|    G-BSSY PA28       # White Waltham
+403438|    G-BTMA C172       # Slough
+4034E9|    G-BTUW PA28       # Oxford
+4034EB|    G-DHAH Aeronca    # Winchester
+4035E1|    G-BUFY PA28       # Denham
+40364E|    G-BULG RV4        # Norwich
+40372A|    G-RVVI RV6        # Marlborough
+40377E|    G-OPJK Europa     # Crewe
+4037F8|    G-BVCL Rans S6    # Rickmansworth
+403806|    G-MYLN Kolb       # Reading
+403847|    G-BVFZ Maule      # Bury
+40388C|    G-OBJT Europa     # Alan Burrill
+40395D|    G-MYTY Shadow     # London
+4039B6|    G-BVVM Zenair     # Brackley
+4039EE|YM  G-BVYM DR300      T LGC tug
+4039EF|    G-BVWI Cameron Ba : Ireland
+403AAF|    G-BWDX Europa     # Waterlooville
+403B64|    G-HOPY VANS RV-6A # J Hopkins
+403B8C|    G-BWPH PA28       # Chipping Norton
+403BAD|    G-BWNB C152       # Warwick
+403BAE|    G-BWNC C152       # Redbourne
+403BAF|    G-BWND C152       # Wellesbourne
+403C51|    G-CLAY Bell 206B  = London
+403C7A|    G-BWUP Europa     # Harlow
+403C94|    G-IFFR PA32       # Letchworth
+403D55|    G-HIZZ R22        = Buntingford
+403D9D|    G-BXEX PA28       # Melton Mowbray
+403DB4|    G-BXGV C172       # Henley
+403DBC|    G-RVAN Vans RV6   # Dunmow
+403E12|    G-ELLI Jet Ranger = Birmingham
+403E28|    G-TGRD R22        = Shobdon
+403E31|    G-KEVB PA28       # Enfield
+403E4D|    G-CIAO Sky Arrow  # Chipping Norton
+403E7C|    G-HERZ R44        = Buntingford
+403ED2|    G-MFHI Europa     # Gravesend
+403F2B|    G-BXSD C172R      # Coventry
+403FF3|    G-WARV PA28       # Bickerton Denham
+403FFE|    G-BXXT Beech 76   # Blackpool
+40408E|    G-GREC Falco      # Banchory
+4040BA|    G-FLOR Europa     # Newtown
+4040CC|    G-BYEM C182       # Denham
+4040D7|    G-BYHI PA28       # Burnham
+4040F5|    G-GIRY AG5B       # London
+404168|    G-HKHM Hughes     = Denham
+404177|M6  G-MSIX DG-808 B   : Paul Richer
+404195|    G-MICI C182       # Uxbridge
+4041A1|    G-BYKU Challenger # Redruth
+4041F4|    G-DUDE RV8        # Banbury
+404211|    G-KTOM Europa     # Salisbury
+404259|    G-BYTS Bensen     = Newark
+404263|    G-NHRJ Europa     # Sheffield
+404268|    G-OMAH C182       # Bolton
+40426E|    G-JBSP Jabiru     # Norwich
+4042A2|    G-BYYC Hapi Sygnet# Sutton Coldfield
+4042E0|    G-MAXV RV4        # Coventry
+404343|IB  G-OTIB DR400      T Bicester
+40435A|    G-BZFT Rebel      # Devizes
+404361|    G-BZGL NA Bronco  # Whitstable
+40437A|    G-BZGF Rans       # StAlbans
+4043A1|    G-WAVA RobinHR200 # Carlisle
+4043C1|    G-BZIY X'AIR      # Penrith
+4043E1|KS  G-FLKS SF25C      : LGC Falke
+404452|    G-EHGF PA28       # Oxford
+404484|    G-JAJP Jabiru     # John Anderson
+40456B|    G-BZXB VANS RV6   # Thetford
+4045A2|    G-OPRC Europa     # York
+4045CB|    G-CBCB Bulldog    # Wendover
+4045EE|    G-CBCP VANS RV6A  # Ipswich
+40460D|    G-CBHA TB10       # Redhill
+404625|    G-ECUB PA18       # Ascot
+404628|    G-MCEL Pegasus    # Northampton
+404648|    G-JACA PA28       # Denham
+40465D|    G-OPET PA28       # Radlett
+4046DE|GLY G-CBLY Grob G109B : Warminster
+4046EA|    G-ICRS Ikarus C42 # Wycombe
+40477C|    G-ELUN DR400      # Stroud
+40488A|    G-CUBW Acro       # Banbury
+4048A1|    G-TECE Technam    # Chippenham
+4048F9|    G-CCDX Eurostar   # Bury
+40494A|    G-ROYC Jabiru     # London
+40496A|    G-KHDW Jabiru     # Newtown
+4049C6|    G-FJTH Foxbat     # Dorchester
+404A01|26E G-CCLR ASH-26 E   : Dunstable
+404A15|    G-CCMM MCR-01 ULC # Chippenham
+404A51|    G-CCOC Pegasus    # Yatesbury
+404A57|    G-CCMP Eurostar   # Bridgewater
+404A59|CA  G-LGCA DR400      T LGC tug
+404A5B|    G-OSSA C206b      # Fife
+404AB6|    G-REGL R66        = London
+404AC0|    G-OSFS C177RG     # ChapelEnLeFrith
+404B2B|    G-CCTR Skyranger  # Halesowen
+404B39|    G-DSPZ R44        = Alresford
+404B53|    G-CCTO Eurostar   # Gloucester
+404B5B|    G-TCNY Quik       # Bishops Stfd
+404B5F|    G-CCSX Skyranger  # Bristol
+404BC1|    G-TAPS PA28       # Chelmsford
+404BF8|    G-RVIC RV6        # Lawrencekirk
+404BFE|    G-TECS Tecnam     # Devizes
+404C12|    G-DOMS Eurostar   # Daventry
+404C14|    G-KIZZ Kiss micro # Rugely
+404C3F|    G-NOXY R44        = Sheffield
+404D1D|    G-DEKA Balloon    B Italy
+404D27|    G-VVVV Skyranger  # Cambridge
+404D9C|    G-CDRV VANS RV9A  # Chelmsford
+404DC1|    G-CDLL MCR-01     # Thirsk
+404DCC|CB  G-LGCB DR400      T LGC tug
+404DF0|W11 G-CKLC Hornet     : William Ellis
+404E25|    G-MURG RV6        # Welwyn
+404E33|TN  G-SATN Pawnee     T LGC tug
+404E4C|    G-CKLT Nimbus     : Banbury
+404E4D|    G-MRLL P51D       # Henley
+404E70|    G-KCIN PA28       # Denham
+404E73|    G-CDRR Pegasus    # North Tawton
+404EB1|    G-SMRS C172       # Braintree
+404EBF|797 G-CKLD Discus 2cT : Alastair Mutch
+404EC3|    G-CDSA Quick      # Bedford
+404F31|    G-JABU Jabiru     # Cambridge
+404F94|    G-OASW ASW27      : Reading
+404FAB|    G-FGRP Agusta 109 = Blackpool
+40501E|    G-CECL Icarus C42 # Shefford
+405022|    G-CZAW Sportcrsr  # Solihull
+40504F|    G-CEGI RV8        # Bristol
+40507E|    G-RINZ VANS RV7   # Robin May
+4050D0|    G-HAMS Quick      # Mansfield
+4050E7|    G-XRVX RV10       # Northwich
+4050F2|    G-CEKJ Eurostar   # Reddich
+4050FD|    G-CKOI LAK-17AT   : Guy Corbett
+405124|    G-CEIT RV7        # Lichfield
+40514C|    G-NWFS C172       # Brentwood
+405179|    G-RVNV VANS RV9   # Milton Keynes
+40517A|    G-CEKI C172       # Alfreton
+405183|    G-CEKT CTSW       # Woking
+4051D2|    G-CKPK Ventus-2CT : Lofty Russell
+4051F2|KPO G-CKPO Duo Discus : Bicester
+40520A|    G-MFLJ Quik       # Rickmansworth
+405212|    G-SUEL Quick GT   # Cirencester
+405244|    G-CETS RV7        # Warwick
+40524A|    G-PEAR Quik       # Branston
+405272|    G-LREE G109B      : Husbos
+405279|    G-CEUD Islander   # Bembridge
+40528D|911 G-VNTS Ventus bT  : Andrew Reid
+4052A9|    G-CHGW Centrair   : Swindon
+4052C1|FBN G-CFBN Mosquito   : Jane Nash
+4052CA|    G-CETP RV9        # David Boxall
+4052D9|    G-CFUU DG300      : Beverley
+4052F2|    G-FERV LS4        : Bicester
+405312|    G-CHNU Nimbus 4DT : Stratford
+40531D|    G-CFOY Discus     : London
+405321|    G-CKCV Duo Discus : Horsham
+405336|    G-LLLL LS8-18     : Paul Fritche
+405386|HUD G-CHUD K13        : LGC K13
+4053B1|J15 G-CFAM Nimbus 3   : Ken Hartley
+4053CC|    G-CJKJ AS33 ES    : RAFGSA
+4053D1|    G-CJFX LS8        : John Gatfield
+4053D6|    G-DCWF SlingsT59  : Aylesbury
+4053DF|436 G-CKDA Ventus 2b  : HusBos
+40540F|    G-DEEC ASW20      : Reddich
+40541C|    G-CHMO Discus     : Malmsbury
+405422|    G-CJDV DG300      : Kettering
+405432|R2  G-CKEV Duo Discus : RAFGSA
+40544F|HGL G-DHGL Discus     : Jeff Loadman
+405459|LS4 G-LSFR LS4        : Alison Mulder
+405490|EQR G-CEWC K21        : LGC K21
+405492|    G-CJLH LS4        : Denis Keegan
+4054AB|    G-IXXI ASW27      : Sandy
+4054B3|P5M G-CKBV ASW28      : Peter Milligan
+4054C1|    G-CKCH Ventus     : Tony Limb
+4054DD|EN  G-CHZY LS-4       : Peter Wedi
+4054E1|    G-CFUJ DG300      : Leeds
+405537|    G-LSKV LS8-18     : Waterlooville
+40554F|    G-DDJN PIK20      : Steve Lambourne
+405562|208 G-CJOC Discus     : James Roland
+4055A8|GBF G-CGBF K21        : LGC K21
+4055B7|    G-JASS Beech 200  # London
+4055C2|    G-CJLY ASW27      : Hugo Ribeira
+4055E0|OX  G-OZOZ Nimbus 3dt : Trevor Barnes
+4055E5|    G-CJSD Astir      : RAFGSA
+4055FA|N51 G-DEVM Centrair   : RafaelSchouChana
+405603|    G-DFOG LS7        : Bruce Porteous
+405618|    G-CHNM Std Cirrus : Bicester
+40562D|HBB G-CHBB ASW24      : LGC ASW24
+405675|CU  G-CUGC ASW19      : Peter O'Donald
+40568F|    G-DEON Nimbus 3   : Lasham
+4056DA|LC  G-CFEJ Discus     : William Parker
+4056EF|    G-ECKB Microlight # Marlborough
+40576D|R49 G-CJMK K18        : RAFGSA
+405783|JWD G-CJWD K21        : LGC K21
+405784|FBV G-CFBV K21        : LGC K21
+40578F|    G-DDGE Cirrus     : Toby Brown
+4057A0|    G-CKAS Ventus 2   : Russell Fletcher
+4057A3|    G-CKFV LS8-T      : York
+4057AB|    G-CKSX ASW27      : Steven Poserskis
+4057D6|EHT G-DEHT Nimbus 2   : Michael Boydon
+405827|S19 G-CJKS ASW19B     : Richard Lancaster
+405870|    G-CHGG Std Cirrus : Edinburgh
+4058B0|    G-CJJH DG800      : Cambridge
+4058B3|T19 G-CHOR Discus     : Bicester
+4058C0|    G-ENST Sportcrusr # Enstone
+4058E3|    G-DAXA R44        = Basingstoke
+4058EA|    G-CEZX Quik GT450 # Abingdon
+405905|    G-XELL ASW27-18E  : North Ferriby
+405934|    G-CHHS ASW20      : Oliver Wheeler
+405935|    G-CJTU Duo        : Chris Redrup
+405937|    G-DEEN Std Cirrus : Kidlington
+40593C|EVW G-DEVW K23        : LGC K23
+40593D|EVX G-DEVX ASK-23     : LGC K23
+405948|    G-EDDS Sportcrsr  # Birmingham
+4059A1|EPD G-DEPD K21        : LGC K21
+4059C2|    G-CFEE Eurostar   : Craig Prentice
+4059DF|    G-CJGM Discus     : Calne
+405A4D|    G-CHGP LS6        : Peter Thomas
+405A59|    G-DBYC Dart       : Bidford
+405A78|    G-CKRV ASW27      : Wendy Head
+405A84|EKP G-SHHH DG100      : Jake Brattle
+405AC4|    G-CKAE Centrair   : Colchester
+405AF3|873 G-DCTT Std Cirrus : Liz Sparrow
+405B19|    G-MOOV Sportcrusr # Worcester
+405B35|    G-VBFN Cameron Bal: Telford
+405B36|    G-VBFO Balloon    : Telford
+405B37|KEJ G-CKEJ K21        : LGC K21
+405B3F|    G-CGAB LAK 12     : Leeds
+405BC8|    G-HEKL Mew Gull   # Ely
+405BE4|LGC G-CLGC Duo Discus : LGC Duo
+405BE9|    G-CRUI Sportcrusr # Banstead
+405C42|FYF G-CFYF K21        : LGC K21
+405C56|    G-EWAD R44        = Redditch
+405C5C|    G-CHBF Nimbus     : Sudbury
+405CC0|FLS G-CFLS Ka-6CR     : UCLU
+405CC1|    G-UCLU K21        : London Uni
+405CED|    G-CFGX Eurostar   # Wokingham
+405D00|    G-DCLO Cirrus     : Dereham
+405D03|HVH G-CHVH Pilatus    : LGC Pilatus
+405D44|    G-CFLG Sportcrusr # Coventry
+405D4B|    G-CFLA Quik       # Birmingham
+405D52|    G-CFRP Centrair   : Steyning
+405D9A|    G-DOLI Cirrus     # Marlow
+405DA8|    G-CJUN ASW19      : Bordorgan
+405DE3|    G-CJUB Discus     : Mkt Harborough
+405E29|N5  G-CHUE ASW-27     : Martin Smith
+405E40|    G-OBUZ RV6        # Ipswich
+405E4D|    G-DEGN Twin Astir : Staffordshire
+405E60|A   G-NYNE ASW27-18E  : Jason Eccles
+405E9D|    G-CFNO Skyranger  # Gloucester
+405EAB|    G-DTCP PA32       # Harrow
+405EB1|    G-CJOV ASW27      : Brackley
+405EB4|    G-CUMU Discus B   : LGC Discus
+405EB5|    G-SPCZ Sportcrsr  # Burntwood
+405EE9|    G-CFMW SF25       : Thame
+405F7F|    G-LPIN QuickR     # Sandy
+405F96|FIX G-OFIX Grob G109B : Tim Dews
+405F9B|    G-RUVE RV8        # Thame
+405FA6|    G-CFTT RV7        # Redhill
+405FA8|    G-ZSIX ASW27      : HusBos
+405FB1|    G-MISJ Sportcrsr  # London
+406026|M3  G-CKTB Ventus     : Frome
+406031|MCA G-HMCA Eurostar   # Halton
+4060D3|    G-CGKD G115       # Babcock
+4060D6|    G-CGKG G115       # Babcock
+4060D7|    G-CKKH G115       # Babcock
+4060DA|    G-CGKK G115       # Babcock
+4060DB|    G-CGKL G115       # Babcock
+4060DD|    G-CGKN G115       # Babcock
+4060DF|    G-CGKP Grob 115   # Babcock
+4060E1|    G-CGKS Grob 115   # Babcock
+4060E3|    G-CGKU G115       # Babcock
+4060E5|KW  G-CGKW G115       # Babcock
+406105|    G-MXPI R44        = Milton Keynes
+40613E|    G-HAEF Eurostar   # Halton
+406147|    G-OTOP QuickR     # Sheffield
+406152|    G-DEEZ Kitfox     # Minehead
+406191|    G-TWLV VANS RV-12 # Halton
+406231|    G-LCYL Embraer190 # Manchester
+406256|    G-OCGC DR400/180  T Cambridge GC
+40626D|    G-CGHW Sportcrusr # Oxford
+4062A0|BW  G-ENBW DR-400     T Warminster
+4062BF|    G-DAVM CAP10B     # Pulborough
+4062DD|563 G-IGLI DuoDiscus  : Chris Fox
+4062F6|    G-JDRD Pioneer300 # Grindleford
+406304|    G-CGLT Sportcrsr  # Missenden
+40632F|    G-OCMS Eurostar   # St Albans
+406370|    G-CGNE R44        = Wellesbourne
+40638A|    G-ZOGG Agusta 109 = Kidlington
+4063C9|    G-CLFX Duo        : Michael Lynes
+4063D5|    G-KUGG ASW27      : Reading
+406436|    G-RVIW RV9        # Norwich
+406503|    G-CGTL Pioneer    # Buckingham
+406522|    G-ISBD Pioneer    # MK
+406523|    G-UMPY Europa     # Graeme Bird
+406566|    G-CGTR Skyranger  # Haverfordwest
+40657A|    G-GLLY Bell 505   = Bicester
+40659D|    G-HMCD Ikarus C42 # Halton
+40659E|MCE G-HMCE Ikarus C42 # Halton
+4065B4|    G-CLGU ASW 27     : Chinnor
+4065D3|    G-NORK Bell 206   = Ware
+4065EE|    G-CGXI C42        # Kettering
+406627|    G-RMAR R66        = Halstead
+406641|    G-CGZV Europa     # Rugby
+406687|    G-CHHI RV7        # Newark
+4066C2|    G-RTRV RV9a       # Kington
+4066F6|    G-XBAL Skyranger  # Welwyn
+406723|    G-LBAC Eurostar   # Rickmansworth
+40677B|    G-CHFU Quick GTR  # Cambridge
+40679F|    G-XAVV Ventus     : Lasham
+4067E9|    G-CHIH Eurofox    # Hinton
+40680E|    G-CHJK Cessna     # Chalfont
+406845|    G-RVWJ RV9        # Hungerford
+406885|    G-RSAM Quik GTR   # MKT Harborough
+4068B3|    G-SHBA C152       # Denham
+4068D0|    G-CHOU Eurostar   # Royston
+40693A|    G-CHWN Ikarus C42 # Andover
+406968|AR  G-SMAR Arcus M    : Simon Marriott
+4069DC|    G-CICC C152       # Denham
+406A75|    G-KTOW Icarus C42 # Kenilworth
+406A84|    G-ICUT Maule      # Rugby
+406AA3|4M  G-KFVG Arcus M    : Mark Burton
+406AAD|    G-CICM Gyro       = Dorchester
+406AD5|SF  G-SASF SF-25 Falke: RAFGSA
+406B0C|    G-MRGT Skyranger  # Holmbeck
+406B23|    G-CIDZ Eurostar   # Reading
+406BB1|    G-PTFE Bristell   # Banbury
+406BC8|    G-CIGG Quik GTR   # Cambridge
+406BD9|    G-ODGC Eurofox    # Didcot
+406BED|TJ  G-CLNE ASH31M     : Tim Jenkinson
+406BF0|    G-KIAU SF25C      : Didcot
+406C09|    G-OHAS R66        = Lanark
+406C23|    G-NILT Eurostar   # London
+406C4F|    G-PWAL Eurofox    # Newport Pagnell
+406C50|    G-HMCF Eurostar   # RAFMFA
+406C84|    G-CILG RV7        # Watford
+406CAD|    G-UUUU Ikarus C42 # Ricmond
+406CB1|    G-CIJO Quick GTR  # Sandy
+406CFD|    G-CINO G109B      : Tim Dews
+406D47|    G-CLON Glassflugel: Paul Ruskin
+406D72|    G-SAWG SF25C      : GSA Calne
+406D7C|    G-CIPS Eurofox    # Ledbury
+406DAA|    G-SPRK VANS RV4   # Poole
+406DAB|    G-SPRX VANS RV4   # Banbury
+406DBD|    G-FPEH Cabri      = Buntingford
+406DC6|    G-CIPG Bristell   # Cirencester
+406E85|    G-KWKX QuickR     # MK
+406EA0|    G-CIRY Eurostar   # Leicester
+406EAC|    G-CITF Eurostar   # Wantage
+406EB8|SH  G-JETV HPH Shark  : Chula
+406EBD|    G-CIRM RV12       # Brighton
+406ED7|    G-CLSJ Glasflgl   : Ely
+406EF5|    G-CITG Skyranger  # Waltham Cross
+406F2F|RA1 G-CLRA ASG29      : Colin Hunt
+406F69|    G-LXVI Arcus T    : Lasham
+406FF0|    G-CIZG R66        = Pershore
+407060|PX  G-CLPX Grob 103   : Bicester
+407130|    G-RECW PA28       # Fleet
+407150|    G-CJHF Eurofox    # Hinton
+407160|    G-KWPW Cabri      = Elstree
+407175|    G-CJIT Ikarus C42 # Eastleigh
+40719F|    G-CJVK Skyranger  # Ryton
+4071AD|ER  G-DPER JS         : Martin Clark
+4071EC|    G-RIFD HPH 304    : Chula Rupasinha
+4071EE|    G-LOUD ASW27-18E  : Trevor Stuart
+407260|    G-CJTE Eurofox    # Rushden
+407274|    G-CJTX Eurostar   # Wycombe
+40727F|SF  G-CLTW Shark      : Shaun Murdoch
+407287|    G-MSOF C172       # Huntingdon
+4072A1|    G-CJZD Eurofox    # Pickering
+4072D8|LTY G-DLTY HPH 304 ES : Jeremy Gilbey
+4072D9|    G-HMCH Eurostar   # Halton
+407387|    G-NJNH R66        = Buckingham
+407399|    G-CKLI PA28       # Headcorn
+4073A4|    G-POPG Eurofox    # Swindon
+4073EC|    G-CKIY Skyranger  # London
+4073F5|    G-MGNI Magni Gyro = Winchester
+4073FF|    G-VNAM BirdDog    # Sthn Sailplanes
+407404|    G-SLNG Sling 4    # London
+407419|    G-GUAR PA28       # Cambridge
+407427|LUK G-CLUK K23        : LGC K23
+407468|    G-NJCZ Pipersport # Aerocruz
+4074A0|    G-JHMP TB20       # Chalfont
+4074D0|    G-MDDE Hughes 500 = Saltash
+4074DD|    G-DOUZ RV12       # TEIGNMOUTH
+40753E|    G-CKVG Icarus C42 # Clench Common
+40754B|    G-STUU Bristel    # London
+407553|    G-CLVL Arcus T    : Leven
+40755D|    G-COPR R44        = Retford
+407577|    G-SUMM Skyranger  # Buntingford
+4075B5|    G-MROS Pipistrel  # Westbury
+40760F|    G-LSTA Glastar    # Horsham
+40761F|    G-CTSO DA40       # Leamington
+40762A|    G-CKYO Ventus     : Cambridge
+407654|    G-PAPJ RV8        # White Waltham
+407656|    G-FXBA Foxbat     # Didcott
+40765A|    G-CLVZ Centrair   : Premislaw Urbanski
+40765F|    G-CKYJ PA28       # Bromley
+40767D|    G-CKYS QUIK GT450 # Harlow
+407690|    G-FFRV RV10       # Fairoaks
+4076AC|    G-HATH Microlight # Banbury
+4076C8|    G-ICEL R66        = Maidstone
+4076C9|    G-DMOB R66        = St.Albans
+4076D2|    G-CLAO RV7        # Henley-on-Thames
+407726|    G-SRCB RV12       # Camberley
+407744|    G-ELCH Commandr   # Lindford
+40774C|    G-KLUB SF25C      : Didcot
+40775B|    G-OKPS Skyranger  # Rugby
+407773|    G-CLWR LS8        : Nottingham
+4077A2|    G-MLSY Bristell   # Trevor Mills
+4077A3|    G-SIIO Ventus 3T  : Peter Harvey
+4077A4|    G-IILX Extra 300  # White Waltham
+4077C9|    G-CLDA MISSION    # Mkt Drayton
+4077D7|    G-CRDL R44        = Chorley
+4077F5|    G-FOXH Ventus     : Marlow
+4077FA|    G-CLFG Sirious    # Sandbach
+4077FE|    G-DBDM Eurofox    # London
+40781E|    G-TADI Gyro       = London
+407830|    G-OAFG Pipistrel  # Chelmsford
+40786C|    G-CLHI Eurofox    # Clench Common
+407886|    G-RGAL DA40       # Leamington
+4078BB|KS  G-KADS Ventus 2ct : Philip Dolan
+4078C4|    G-RVBH RV8        # Oswestry
+4078C9|    G-TBDI Ikarus C42 # Banbury
+4078E3|    G-OHST Rotorway   = Skegness
+407917|LXN G-CLXN Ventus     : Robert Nichols
+40791C|    G-CLYF ASW27-18E  : Chipping Norton
+407920|    G-CLYD Ventus     : Derby
+40793F|    G-FEBU DG-1000S   : Bristol
+40794E|    G-CLLA Skyranger  # Northamton
+407988|    G-CLLE ASG32 MI   : Owain Walters
+407991|    G-CLMA RV12       # Brackley
+40799E|    G-KBEB C182       # Ashbourne
+4079D5|    G-WLLW AS33       : Gary Stingemore
+4079FE|    G-CLMI Pipistrel  # Croydon
+407A03|    G-CLYM AS33 ES    : Petersfield
+407A1D|    G-OGAL RV14       # Shrewsbury
+407A1E|    G-CLSS Arcus T    : Warwick
+407A21|    G-SBVT Ventus 3T  : Lasham
+407A25|    G-SADK DA40       # Leamington
+407A46|    G-CLZF Centrair   : TomaszSkorzewski
+407AA6|    G-LDMC AS33 ES    : Lasham
+407ADB|    G-THDR AW109SP    = Douglas IOM
+407AEB|    G-CLWM Venus-3T   : Andover
+407AEE|    G-MACC Carbon Cub # Banbury
+407B0C|    G-TTRE AS33       : Mkt Harborough
+407B14|    G-UNJA Pipistrel  # Beccles
+407B1B|    G-LAPL SF25C      : Didcot
+407B21|    G-DIIO Arcus M    : Steve Jones
+407B26|    G-FLXY PA20       # Hersham
+407B40|    G-CPJB LS8-E      : Chelmsford
+407B78|    G-DIYA Sling 4    # Billericay
+407BA3|    G-XGAB Bristell   # St.Albans
+407BAE|    G-CMDM RV9A       # Eastbourne
+407BB1|    G-CLYZ Eurofox    # Cheshunt
+407BCC|    G-IZEN AS33 ES    : Lasham
+407BD2|    G-EEAH Bolkow     # Warminster
+407BE9|    G-HYPE Sling      # Guildford
+407BF6|    G-RODW Eurofox    # Bedford
+407C32|    G-PLOT Eurofox    # Amersham
+407C4A|    G-CMAG AS33 ES    : Lasham
+407C52|    G-YEAS AS33ES     : Andrew Sampson
+407C59|    G-CMVB Eurofox    # Marlborough
+407C64|    G-KRVJ Sling 4    # Leyburn
+407C71|    G-OCOL Sportstar  # Reading
+407CA0|    G-CMEG Sportstar  # Tonypandy
+407CCD|    G-DDAD R22        = Gt Baddow
+407CD3|    G-MUON ASH31M     : Patrick Naegeli
+407CE8|    G-CMFR Eurofox    # Hungerford
+407CEF|    G-EFGT Eurofox    # Burcot
+407CF1|    G-NCLA RV12       # Dartford
+407D14|    G-PTSI Sling 4    # London
+407D43|    G-CMEV Eurofox    T Husbos
+407D70|    G-SLGG Sling 4    # Guildford
+407D8A|    G-GBSD Sting      # London
+407D93|    G-CJMD Stingray   # Rickmansworth
+407D9B|    G-NMAM AS33 ES    : James White
+407E0C|    G-GGTR QUIK GTR   # Leicester
+407E30|    G-CMJI Ikarus C42 # Kettering
+407E92|    G-DMBC AS33 ES    : MarkNewlandSmith
+407E99|    G-KEVF Bristell   # Sevenoaks
+407EA4|    G-CMKR Ikarus C42 # Sevenoaks
+407ED0|    G-ENDG Ikarus C42 # Camborne
+407F12|    G-CMNG Ikarus C42 # Halton
+407FEF|    G-CMPL Ikarus C42 # Shefford
+407FFD|    G-TUGD Eurofox    # Denbigh GC
+408075|    G-CMUZ Stingray   # Nuneaton
+4080DA|    G-COSA Sling4     # Bassingbourn
+40813A|    G-CMVK Eurofox    # Belford
+40813B|    G-CMVD IKARUS C42 # Little Snoring
+40814F|    G-CMWC Pipistrel  # Beccles
+408151|    G-GCMS Exodus 500 # Markyate
+4081A4|    G-KFCW Skyranger  # Kemble
+4845B9|YY  PH-714 K21        : LGC K21
+4B4897|O8  G-DBEN ASW-15     : Liam Bennett
+6870E8|    Russian Military  #
+A0859F|    N12243 C172       # 
+B99FC4|DTX G-DDTX Mosquito   : Peter Nash
+D00150|EFW G-DEFW Vega       : Haluk Yildiz
+D00188|566 G-DCRN Std Cirrus : Daniel Van der Werf
+D001B5|F2  D-KEWV Ventus 3T  :
+D001CA|TJ  ZS-GER JS-1       : Tim Jenkinson
+D002F1|FRK G-CFRK ASW15B     : Paul Boet
+D0039E|946 G-GCJA LS18       : Farnborough
+D003F2|E1  G-CLYC JS-3       : Melton
+D0054E|U1  G-IFES Discus 2c  : Kettering
+D00565|NW2 D-7101 Discus 2   : German
+D006F4|Z95 G-DJEB Shark      : David Candler
+D00850|EGZ G-DEGZ K21        : Bicester
+D0091E|LWC G-CLWC SZD-54     : Colchester
+D00943|SX  G-KSSX ASW27      : Liam Brady
+D00944|EQR G-CEWC K21        : LGC K21
+D00953|EVW G-DEVW K23        : LGC K23
+D00970|KS  G-KADS Ventus     : Edinburgh
+D009D6|    G-CJCU Std Cirrus : Dunstable
+D009DF|DW         Ventus 2   : Unknown
+D00AB1|VF  D-KLYB            : German
+D00CA4|J1S                   : Unknown
+D00CC0|275 G-CLZG Ventus     : Geof Glazebrook
+D00D74|26  G-SAXT Duo xlt    : Halton RAFGSA
+D00DD1|YO  G-CLYO AS33       : Jon Gatfield
+D00E49|A60 G-PZAS ASW27      : Ashley Birkbeck
+D00FFF|V66 G-HAAH Ventus     : Paul Field
+D0104D|N4         Kestrel    :
+D0128B|69  G-DEHT Nimbus     : Bicester
+D012B1|W27 G-CJCM ASW27      : John Reed
+D012FD|    G-CKAR Duo Discus : Chinnor
+D01347|    G-CJPT ASW27      : Sevenoaks
+D01394|246 G-CFVH LS7        : Carol Marshall
+D01437|SI  G-SISI DUO        : Rupert Puritz
+D01445|470 G-DEFA ASW20L     : Richard Cooper
+D0144F|57  G-CKPU ASW27-18   : Mark Newland-Smith
+D014D4|CH  G-CLRZ LS1        : Claudia Hill
+D0156E|766 G-DDTY Mosquito   : Peter Freeland
+D015A6|    G-CFRK ASW15      : Hemel
+D015FB|GP  G-CJVM ASW27      : Geof Payne
+D0161C|           Ventus     :
+D017EA|DID G-CLWZ Ventis     : Banbury
+D017F6|TC  G-KXMS Ventus     : John McNamara
+D01878|JEP G-CJEP LS4        : Shrewsbury
+D01C5C|PM  G-DELU ASW 20L    : HusBos
+D01C65|R6  G-SAOC Discus     : RAFGSA
+D01C8B|506 G-CEUN Discus     : RAFGSA
+D01CC6|AL  G-CFRJ Std Cirrus : Anthony Landau
+D01EF8|13  D-KOOL EB 28      : Ed Downham
+D01F56|721 G-CFCP LS6        : London
+D01F76|    G-CJTJ Nimbus     : Tunbridge
+D021CC|    G-CHMK LS6-18     : Robin Hodge
+D0284F|    G-CKPK Ventus     : Lofty Russel
+D0287A|S4L        LS4        :
+D02958|    G-DSVN LS8        : St Albans
+D02AD2|AB  G-CLES ASG29E     : London
+D02B4F|MB  G-CKED ASW27      : Saffron Walden
+D02C8A|    G-GLSJ HPH Shark  : Cambridge
+D02CE0|HCQ G-CHCO Libelle    : Malcolm Birch
+D0315A|HCQ G-DHCO Libelle    : Malcolm Birch
+DD0040|HCV G-DHCV ASW-19     : Robin May
+DD0947|218 G-CKKH ASW-27     : Peter Hurd
+DD0FA0|28T G-TRBO ASW-28     : Rod Weaver Cardiff
+DD139A|KRJ G-CKRJ ASW-27     : John Marshall
+DD153B|AB  C-CLES ASW-27     : Andrew Brown
+DD17F7|KMF G-CKMF Pegase     : Daniel Jamin(1)
+DD186F|527 G-LDER ASW-22     : Paul Shrosbree
+DD18AD|143 G-CFJM LS-4       : Ken Woods
+DD1945|TB2 G-CGCT Discus     : Rhoan Birch
+DD4E5B|900 G-THRM ASW-27     : Germany
+DD4E65|RW  G-CJPL LS-8 18    : Ian Reekie
+DD4E76|L24 G-CJTH ASW-24     : Richard Lodge
+DD4E7A|A27 G-CJDC ASW-27     : Tom Sage
+DD4E9E|L6  G-CHGP LS-6       : David Miller
+DD4EC8|JJL G-CJJL ASW-19     : Richar
+DD4ED5|M4  G-CJAW DG200      : London
+DD4F00|795 G-CHEH LS-7       : Paul Candler
+DD4F30|    G-WAVE Grob G109B : Colin Wray
+DD4F4F|456        LS-8 18    :
+DD4F81|904        Skylark 4  : Paul Davy
+DD4F98|950 G-CFJR DG-300     : Hugh Smith Odiham
+DD5031|G9  G-CKOZ ASG-29     : Ed Johnston
+DD5043|CVL G-DCVL Libelle Std: John Williams
+DD505A|503 G-CKDY DG-100     : David Crisp
+DD5085|XY  G-CFPB ASW-15     : Ian Burgin
+DD5091|KC  G-CLRZ LS1-F      : Claudia Hill
+DD50A3|JNR G-CJNR Mosquito   : Rhoan Birch
+DD50A5|Z1  D-7879 ASW-27     : Tom Gooch
+DD50D2|803 G-CFUL Discus     : Alex Hippel
+DD50D6|HCQ G-DHCO Libelle Std: Malcolm Birch
+DD50D8|JLH G-CJLH LS4        : Carl Sorace
+DD510C|EEJ G-DEEJ ASW 20L    : Tim Dews
+DD511B|FTJ G-DFTJ SZD-48 Jant: Paul Nock
+DD5171|603 G-DJAN Discus     : Nigel Perrin
+DD51D8|4A  G-FORA Ventus     : William Greenwood
+DD51F9|19T G-XIXT LAK-19 T   : Warren Kay
+DD51FC|721 G-CFCP LS6        : Matthew Hall
+DD520F|D15 G-CHSD Discus     : Roger Leslie
+DD5240|AL  G-CFRJ Cirrus     : Anthony Landau
+DD5252|FGP G-CFGP ASW-19     : Adrian Prime
+DD52F6|583 G-DDMP Astir CS   : Graham Nixon
+DD52FB|LF  G-CKOM ASW27      : Paul Whipp
+DD854A|PE  G-KEPE Nimbus 3DT : John McWilliam
+DD8792|A4  G-CKLN LS-4       : Anglia Pilot
+DD8A52|T   D-3561 LS-4       :
+DD8CF7|VS  G-DDVS Cirrus Std : Joseph Wilson
+DD8DF7|177        DG-100     :
+DD8E93|225 G-CHKD Cirrus Std : Ben Hudson
+DD8EE5|A28 G-CKAL ASW-28     : David Smith
+DD8F1C|AH  G-CHEE Discus     : Andy Henderson
+DD8F2C|19  G-CJUN ASW-19     : Matthew Cook
+DD93C8|FVL G-CFVL Zugvogel II: Guy Corbett
+DD969C|EBB G-FEBB Grob Astir : Monubarami Ogbe
+DD9B6C|WB  G-CFYJ Cirrus Std : William Blackburn
+DD9D08|    D-KUFP HK36 Super :
+DDA35A|BW  G-ENBW DR-400     T Warminster
+DDA885|    G-CJHM Discus     : Cambridge
+DDA8BC|DI  G-UDIX Duo Discus : Roger Banks
+DDA9DF|117 G-DEON Nimbus 3   : Lasham
+DDAA2A|V66 G-HAAH Ventus 2ct : Paul Field
+DDAA85|432 G-CHYR ASW-27     : Tony Hutchins
+DDAAE0|    D-KKHB Piccolo B  # 
+DDAAE2|170 G-CKOI LAK-17     : Guy Corbet
+DDAC67|615 G-CJJB LS-4       : Michael Tomlinson
+DDACA1|333 G-CFBT Ventus BT  : Peter Stafford-Allen
+DDAD3E|L3  G-CJBK ASW-19     : Peter Deane
+DDAD3F|29  G-CFWK Nimbus 3DT : Alan Dibdin
+DDB1E6|LG  D-4818 Mini Nimbus:
+DDBAAB|EDW G-UCLU K21        : LGC K21
+DDBAFE|D53 G-CJTR LS-7       : Gordon Howarth
+DDBB11|LMA G-KRWR DG-600     : Andrew Hyslop
+DDBB95|MF  G-DEMT LS-4       : Mike Fox
+DDBBA7|R6  G-SAOC Discus 2cT : RAFGSA
+DDBBC2|HB1 G-CJPA Duo Discus : Hus Bos
+DDBBD6|72  G-PHNX Duo T      : John Birch
+DDBBFA|D7  G-DSVN LS-8 18    : Aidan Paul
+DDBC04|HZW G-OJNE Nimbus 3   : Michael Garwood
+DDBC10|161 G-CJPR LS-8       : Dave Byass
+DDBC28|R11 G-CJYU Ventus 2ct : Mark Davis
+DDBC62|319 G-DERS ASW-19     : Booker GC
+DDBCCF|L8  G-STEU LS-6 18    : Lofty Russell
+DDBCDA|BTN        Olympia 463:
+DDBD06|24  G-CKCE Ventus 2ct : Jonathan Walker
+DDBD08|335 G-DHET LS6-C18    : Martin Langford
+DDBD0E|M6  G-MSIX DG-808 B   : Paul Richer
+DDBD87|LLL G-CLLL ASG-29E    : Ian Hicks
+DDBD90|KRC G-CKRC ASW-28 18  : David McGrath
+DDBDA0|X8  G-CHZG LS-8 18    : MikeWebb Banbury
+DDBDA1|347 G-CGCM LS-6       : Robin Hodge
+DDBDA2|430 G-DEKW Nimbus 2   : Venn Mahoney
+DDBF13|HEF G-CHEF DG-500     : Sutton Bank
+DDBF61|136 G-CFHL LS-4       : Melissa Jenkins
+DDC03A|CB  G-CJWU Ventus bT  : Ben Crook
+DDC061|584 G-VENC Ventus 2C  : Andrew James
+DDC0EB|205 G-CKLP ASW-28t    : Peter Baker
+DDC106|470 G-DEFA ASW-20     : Richard Cooper
+DDC270|LSG G-CLSG LS4-b      : Chris Taunton
+DDC341|WH  G-1234 LS-4       :
+DDD23B|209 G-CKNG ASW-28     : Martin Brockington
+DDD2C0|963 G-CHHH LS-6       : Paul Rackham
+DDD37F|218 G-CKKH ASW-27     : Peter Hurd
+DDD381|62  G-CHPD LS-6 18    : Neville Robinson
+DDD50B|176 G-CJCT Nimbus 4   : Ted Richards
+DDD577|82         Discus     :
+DDD5EE|161 G-CJPR LS8-18     : David Byass
+DDD842|277 G-MOZI Mosquito   : Paul Smith
+DDD8B5|822        Std Cirrus :
+DDD8C2|418 G-BXAN SF25       : Retford
+DDD8C8|762 G-CFCA Discus     : Martin Hayden
+DDD8F7|GW  G-CKJF Cirrus Std : Richard Skuse
+DDD8FD|HXU G-CHXU ASW-19     : UCLU
+DDD905|HXT G-CHXT LS-4       : Piers Murray
+DDD90D|HB1 G-CJPA DuoDiscus  : HusBos
+DDD934|EEE G-MEEE ASW20      : Stroud
+DDD993|680 G-DDDR Cirrus     : James Ewence
+DDD994|PO5 G-CICT Ventus 2cxt: David Postlethwaite
+DDD9A5|SL  G-SLAW LS-4       : Stuart Law
+DDD9DD|2A  G-DEAJ Nimbus 2   : Colchester
+DDD9E7|W20 G-ODCH ASW-20     : Peter Stratten
+DDD9F8|FVV G-CFVV Pegase     : Cambridge GC
+DDDA04|871 G-CJXW DuoDiscus T: Andy Beatty
+DDDA40|LS3 G-DEFS LS-3       : Peter Thomas
+DDDAA3|HGG G-CHGG Cirrus Std : Chris Mutvicy
+DDDB2A|574 G-CFPT ASW20      : Luke Hornsey
+DDDBAF|C55 G-CHNM Std. Cirrus: AndyM GeorgeT
+DDDC19|6          Discus 2   :
+DDDC3F|379 G-DESC LS-4 W     :
+DDDC9A|SI  G-SISI Duo Discus : Robert John
+DDDCC3|M8  G-CKME LS-8       : Mike Smith Cambridge
+DDDCDE|DJ  G-DCWF Kestrel    : Peter Nicholson
+DDDCF0|KDX G-CKDX DG-200     : Adrian Giles
+DDDD17|KNV G-CKNV ASW-28 18  : Graham Pursey
+DDDD1E|919 G-DHKL Discus     : Salisbury
+DDDD1F|KV  G-LSKV LS-8 18    : Nigel Perren
+DDDD69|JN  G-CLTJ Lak 17bFES : Tom Sage
+DDDD77|620 G-JIFI DuoDiscus t: Edward Foxon
+DDDDED|601 G-CHJS ASG-29E    : John Spencer
+DDDE03|W8  G-CRJW ASG-29     : Robert Welford
+DDDE96|JNG G-CJNG Libelle    : Bedford
+DDDE9C|A5  G-PZAS ASW-27     : Andrew Sampson
+DDDFA9|ZZ  ZS-GCJ JS-1 Revela:
+DDDFF0|SG9 G-KUGG ASG-29E    : John Otty
+DDE200|LVP G-CLVP SZD        : Jaroslav Szuster
+DDE21E|LU  G-DELU ASW20      : Pippa Roberts
+DDE229|ICQ OK-374 Cirrus Std :
+DDE22F|KMF G-CKMF Centrair   : Daniel Jamin
+DDE24D|J1M G-CJOV ASW-27     : James White
+DDE25C|566 G-DCRN Std. Cirrus: Justin Craig
+DDE2A2|R35 G-DERJ ASK-21     : Halton
+DDE2A7|527 G-LDER ASW-22     : Shrosbree-Starer
+DDE2DA|808 G-CKDO Ventus 2ct : Mike Edwards Frome
+DDE2E3|246 G-CFVH LS-7       : Carol Marshall
+DDE2E5|S4L        LS-4       :
+DDE2EC|L24 G-DEEJ ASW-20     : Tim Dews
+DDE33F|180 G-DDST ASW-20     : James Innes
+DDE378|    G-CFOZ LS1        : Leeds
+DDE37D|73  G-CKBM ASW28      : Peter Brown
+DDE395|TP         Libelle Std:
+DDE3B4|GP  G-CJVM ASW-27     : Geof Payne
+DDE3C6|FEF G-CFEF Astir      : Oxford
+DDE3E9|785 G-CFOY Discus     : James Slater
+DDE3F4|V5  G-CHLS Discus     : Peter Sheard
+DDE3F5|279 G-DEOA LS-4       : Micahl Nowak
+DDE3F9|X17 G-CKHE LAK17-AT   : Vernon Bettle
+DDE410|118 G-DESH Pegase     : Jane Moore
+DDE442|LM2 G-DCFL ASK-23     : LGC K23
+DDE445|    G-BSCZ Cessna 152 # Halton
+DDE446|JW         ASK-23     :
+DDE460|196 G-CFHD ASW-20     : Peter Joslin
+DDE492|828 G-DDYE ASW-20     : Peter Howel
+DDE493|LL  G-DCMR Libelle Std: Andrew Elliott
+DDE4BC|    EGWN3             # Halton
+DDE4C6|HLK G-CHLK Libelle    : David Bray
+DDE4CC|335 G-DHET LS-6       : Martin Langford
+DDE4CF|    G-CJRX ASK13      : RAFGSA Calne
+DDE4D8|GP  G-CJVM ASW-27     : Geoff Payne
+DDE4EB|    EGWN4             : Halton
+DDE4EC|N5  EGWN5             : Halton
+DDE60D|H4  G-CKBV ASW-28     : Paul Whipp
+DDE808|LUK G-CLUK K23        : LGC K23
+DDE992|ZX  D-KKZX ASH-31 Mi  :
+DDEA20|B5  ZS-GCE JS-1 B Reve:
+DDEA43|TIM        ASG-29     :
+DDEA92|CUS G-RCUS Arcus t    : Michael Weston
+DDEAA6|11  D-KJRR Arcus M    :
+DDEAB4|4M  G-KFVG Arcus M    : Mark Burton
+DDEAD9|15C G-CKDN ASW27-18E  : Angus Watson
+DDEAFF|LJZ G-CLJZ ASH-31 Mi  : John Thompson
+DDEB29|AJ  G-ZZAJ ASH-26 E   : Alan Johnstone
+DDEB37|    G-CKBM ASW28      : Peter Brown
+DDEB80|EI  ZS-GEH JS-1       :
+DDEBDE|38  G-CHTL Arcus T    : Richard Large
+DDEBF8|4J  G-PBWS ASH-31 MI  : Anthouny Hughes
+DDEC1A|T6  G-CJYD ASW-27     : Sold to Germany
+DDEC61|A5  G-PZAS ASG-29     : Andrew Sampson
+DDEC89|T4  G-CKHD ASW-27     : David Tillet
+DDEC93|57  G-CKPU ASW-27 18E : MarkNewlandSmith
+DDEC95|949 G-GBPP LS-6 18    : Geoff Lyons
+DDEC98|B17 G-CLMD LAK17bFES  : Paul Whipp
+DDECCD|HKY G-CHKY Discus     : Mark Davis
+DDECCF|R5  G-DLOE ASW27      : Rupert Robinson
+DDECDB|TL  ZS-GBM            :
+DDED04|70  G-DHZP LS-8 18    : Andy May
+DDED44|ZB  ZS-GBR JS-1 Revela:
+DDED68|TJ  G-CLNE ASH-31 Mi  : Tim Jenkinson
+DDEDBF|LEW G-ILEW Arcus M    : Lleweni Parc Ltd
+DDEDC9|906 G-CKFD ASW-27     : Bill Craig
+DDEDCE|HH  G-HXJT Shark      : Helen Hingley
+DDEE4E|HBB G-CHBB ASW-24     : LGC ASW24
+DDEE75|LGC G-CLGC Duo Discus : LGC Duo
+DDEE8C|28  G-CLON Shark      : Paul Ruskin
+DDEE96|D66 G-RAPL DuoDiscus t: Chris Lewis
+DDEEB6|ES  G-CLPU ASG-29E    : Daniel Jamin(2)
+DDEECD|B8  G-CLRC ASG-29     : Bill Tandy
+DDEED2|77  G-VTEW Ventus 2   : Owen McCormack
+DDEED7|JR  G-KJJR Ventus 2CT : Richard Maisonpierre
+DDEFA1|NT  G-LLNT ASG-29E    : Nick Tillett
+DDEFA3|J2T G-JSRK Shark      : Terry Dunford
+DDEFA4|B2  G-PRBB Shark      : Peter Belcher
+DDF0AE|456 G-CKET LS8        : Mike Jefferyes
+DDF0AF|12  G-WYVN DG-1000 t  : Army GC
+DDF0B7|440 G-CKKY Duo Discus : Colchester
+DDF0ED|AB  G-CLES ASG29      : Andrew Brown
+DDF133|13  D-KOOL EB 28      : Ed Downham
+DDF91A|L4         LS-8       :
+DDF986|328 G-OTYR ASW24      : Andrew Beckinham
+DDF996|R25 G-CJKZ ASK-21     : Halton
+DDF99F|AW  G-KGAW SF-25 Falke: Bicester
+DDF9A4|R7  G-CJKT ASK-13     : RAFGSA Halton
+DDF9AA|R28 G-CKGH ASK-21     : Halton
+DDF9B2|R21 G-CJKJ ASK-21     : RAFGSA
+DDF9E5|K8  G-CJJK LS-8 18    : Andy Roch
+DDFA19|370 G-CKGA Ventus 2cxT: Denis Campbell
+DDFAB8|152 G-DDZF Cirrus Std : Gordon MacDonald
+DDFAC1|ETY G-DETY LS-4       : Derek Staff
+DDFACC|8   G-CWLC ASH-25     : Carr Withall
+DF02A1|W11        Hornet     :
+DF02AA|528 G-DCRV Libelle Std: G. Dale
+DF02E8|382 G-CEVD LS3        : Peter Warner
+DF08D5|MM  G-EHMM DR-400     T Booker
+DF08E8|GH  G-BLGH DR-300     T Booker
+DF09F1|LTS G-CLTS Arcus T    : Steve Jones
+DF0A71|KUS G-RKUS Arcus T    : Michael Weston
+DF0B08|J34 G-EHAV Libelle    : George Keates
+DF0C76|D1         LS-8       :
+DF0E11|4M  G-CFRZ Std Cirrus : Shaun Lapworth
+DF0E14|4M  G-KFVG Arcus M    : Mark Burton
+DF10DA|KNF G-CKNF DG-1000 T  : Robert Johnson
+DF11CE|T7  G-DCOY Cirrus     : Derby
+DF1237|NT  G-LLNT ASG-29E    : Nick Tillett
+DF1262|    G-CKCM Libelle    : Andrew Davey
+DF1263|LZF G-CLZF Centrair   : Tomasz Skorzewski
+DF12C8|E6  G-RYPE DG-1000 T  : Richard Abbot
+DF13F4|EFZ G-DEFZ LS-3       : Doug Gardner
+F6128F|    G-BMLL G109B      : LGC
+F63ED3|    G-HIZZ R22        = Buntingford
+F8455A|HCV G-DHCV ASW-19     : Clement Allen
+FBA928|    Safesky           : LGC tugpilot
+FD670A|    Oudie5 LGC 4      : Handheld
+FD68C2|    Oudie5 LGC 1      : Handheld
+FD6CDC|    Oudie5 LGC 2      : Handheld
+FD6D9F|    Oudie5 LGC 3      : Handheld
+FFFFFF|    RANDOM STEALTH    # Stealth Mode
